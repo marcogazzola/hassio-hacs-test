@@ -1,0 +1,9 @@
+{
+    "domain": "air_quality_monitor",
+    "name": "Hassio Air Quality",
+    "documentation": "https://github.com/marcogazzola/hassio-hacs-test/blob/master/README.md",
+    "issue_tracker": "https://github.com/marcogazzola/hassio-hacs-test/issues",
+    "codeowners": ["@marcogazzola"],
+    "dependencies": [],
+    "requirements": []
+  }
